@@ -1,6 +1,6 @@
 <br/>
 
-**This page will no longer be updated**
+**⚠️ This page will no longer be updated**
 
 
 Please explore my latest portfolio at https://blee-portfolio.notion.site/Byron-Lee-s-Portfolio-782450e1461a4dfda3979fcc990ed7be
