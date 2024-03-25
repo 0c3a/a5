@@ -1,10 +1,15 @@
+<br/>
+
 **This page will no longer be updated**
+
 
 Please explore my latest portfolio at https://blee-portfolio.notion.site/Byron-Lee-s-Portfolio-782450e1461a4dfda3979fcc990ed7be
 
+<br/>
 
 ---
-
+<br/>
+<br/>
 
 ![picPos01](https://github.com/0c3a/a5/blob/main/res/0420/01.png)
 ![picPos02](https://github.com/0c3a/a5/blob/main/res/0420/02.png)
