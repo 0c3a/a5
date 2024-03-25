@@ -3,7 +3,7 @@
 **⚠️ This page will no longer be updated**
 
 
-Please explore my latest portfolio at https://blee-portfolio.notion.site/Byron-Lee-s-Portfolio-782450e1461a4dfda3979fcc990ed7be
+Please explore my latest and future works in the new portfolio: [https://noto.li/XyCRo6](https://notion.so/782450e1461a4dfda3979fcc990ed7be)
 
 <br/>
 
@@ -39,3 +39,11 @@ Please explore my latest portfolio at https://blee-portfolio.notion.site/Byron-L
 ![picPos26](https://github.com/0c3a/a5/blob/main/res/0420/29.png)
 ![picPos26](https://github.com/0c3a/a5/blob/main/res/0420/30.png)
 ![picPos26](https://github.com/0c3a/a5/blob/main/res/0420/99.png)
+
+---
+
+Alternative links to the new portfolio:
+
+https://blee-portfolio.notion.site/Byron-Lee-s-Portfolio-782450e1461a4dfda3979fcc990ed7be
+https://notion.so/782450e1461a4dfda3979fcc990ed7be
+https://noto.li/XyCRo6
